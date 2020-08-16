@@ -3,10 +3,20 @@
 # except dotfiles
 !.*
 # but except these dotfiles
+.xsession-errors*
 .ssh
 .smb
+.wget-hsts
 .gitconfig
 .oh-my-zsh
+.histfile
+.zcompdump*
+.p7zip
+.pulse-cookie
+.image.so
 .steam*
+.thunderbird*
+.viminfo*
+.*authority
 .*oauth
 .*history
