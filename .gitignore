@@ -2,7 +2,11 @@
 *
 # except dotfiles
 !.*
-# specially these
+# but except these dotfiles
 .ssh
+.smb
+.gitconfig
 .oh-my-zsh
+.steam*
+.*oauth
 .*history
