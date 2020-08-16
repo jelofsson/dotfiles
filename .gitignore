@@ -1,8 +1,8 @@
 # ignore everything
 *
-# specially these
-.*history
-.ssh
-.oh-my-zsh
 # except dotfiles
 !.*
+# specially these
+.ssh
+.oh-my-zsh
+.*history
