@@ -1,0 +1,15 @@
+[user]
+	email = contact@xrb.se
+	name = Jimmi Elofsson
+[core]
+	excludesfile = $HOME/.gitignore_global
+[difftool "meld"]
+	cmd = meld \"$LOCAL\" \"$REMOTE\"
+	path =
+[mergetool]
+  keepBackup = false
+[pull]
+  rebase = true
+[rebase]
+  autosquash = true
+  autostash = true

@@ -3,12 +3,12 @@
 # except dotfiles
 !.*
 !.*/*
+!README.md
 # but except these dotfiles
 .xsession-errors*
 .ssh
 .smb
 .wget-hsts
-.gitconfig
 .oh-my-zsh
 .histfile
 .zcompdump*
