@@ -1,0 +1,19 @@
+data.location=~/.task
+weekstart=monday
+
+# Show the tracking of time
+journal.time=on
+
+# Do use color
+color=on
+
+# Make searches case insensitive
+search.case.sensitive=no
+
+pomodoro.displayCount=true
+pomodoro.durationSeconds=1500
+
+rc.dateformat=YYYY-MM-DDThh:mm:ss
+
+# Indicate the active task in reports
+active.indicator=>

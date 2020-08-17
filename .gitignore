@@ -2,6 +2,7 @@
 *
 # except dotfiles
 !.*
+!.*/*
 # but except these dotfiles
 .xsession-errors*
 .ssh
