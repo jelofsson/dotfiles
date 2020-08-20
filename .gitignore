@@ -2,14 +2,13 @@
 *
 # except dotfiles
 !.*
-!.*/*
+!.*/**
 !README.md
 # but except these dotfiles
 .xsession-errors*
 .ssh
 .smb
 .wget-hsts
-.oh-my-zsh
 .histfile
 .zcompdump*
 .p7zip

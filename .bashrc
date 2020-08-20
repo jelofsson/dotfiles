@@ -24,6 +24,6 @@ if [ -d "$HOME/.local/bin" ] ;
   then PATH="$HOME/.local/bin:$PATH"
 fi
 
-if [ -f ~/.aliases ]; then
-   . ~/.aliases
+if [ -f ~/.$ZSH/custom/aliases.zsh ]; then
+   . ~/.$ZSH/custom/aliases.zsh
 fi

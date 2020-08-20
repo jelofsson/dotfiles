@@ -5,6 +5,8 @@
 #ignore upper and lowercase when TAB completion
 #bind "set completion-ignore-case on"
 
+alias clear="clear && $ZSH/custom/rainbowpukeskull.sh"
+
 #list
 alias ls='ls --color=auto'
 alias la='ls -a'
