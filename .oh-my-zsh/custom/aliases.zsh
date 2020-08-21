@@ -6,6 +6,7 @@
 #bind "set completion-ignore-case on"
 
 alias clear="clear && $ZSH/custom/elfman.sh"
+alias skull="clear && $ZSH/custom/pukeskull.sh"
 
 #list
 alias ls='ls --color=auto'
