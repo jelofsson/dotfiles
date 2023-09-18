@@ -1,0 +1,10 @@
+.runelite/logs
+.runelite/cache
+.runelite/jagexcache
+.runelite/screenshots
+.runelite/repository2
+.runelite/profiles
+.runelite/profiles2
+.runelite/resource-packs-repository
+.runelite/**.png
+.runelite/**.dat
