@@ -5,5 +5,3 @@
     <img src="https://img.shields.io/badge/platform-linux-blue.svg" />
   </div>
 </p>
-
-## Jimmi Elofsson's dotfiles
